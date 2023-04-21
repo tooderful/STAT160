@@ -1,2 +1,2 @@
-# STAT160-
+# STAT160
 Fundamentals of Statistics
